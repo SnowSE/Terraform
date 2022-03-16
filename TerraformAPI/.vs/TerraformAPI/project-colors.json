@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a95eb6a8-0766-4459-9c86-6959de5e2cf3": {
+      "ProjectGuid": "a95eb6a8-0766-4459-9c86-6959de5e2cf3",
+      "DisplayName": "TerraformAPI",
+      "ColorIndex": 0
+    },
+    "b2913888-e165-4d29-a39a-035567af1fd3": {
+      "ProjectGuid": "b2913888-e165-4d29-a39a-035567af1fd3",
+      "DisplayName": "Solution Items",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

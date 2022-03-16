@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "0iwmvp18YYonamKRqiQM12OU3nvLr+0Ww0vrUJB6IOQ=",
+  "Source": "TerraformAPI",
+  "BasePath": "_content/TerraformAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
